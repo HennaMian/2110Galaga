@@ -1,4 +1,7 @@
+# 2110Galaga
 Welcome to Galaga!
+Created as a project for the class CS 2110-Computer Organization and Programming.
+Make in C and run in a GameBoy Advance Emulator.
 
 You may think you know this classic game, but now there's a new version!
 
